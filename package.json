@@ -1,0 +1,23 @@
+{
+  "name": "saucedemo-playwright-automation",
+  "version": "1.0.0",
+  "description": "Repository for playwright based automation for saucedemo smoke suite",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiswasAnanya/saucedemo-playwright-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BiswasAnanya/saucedemo-playwright-automation/issues"
+  },
+  "homepage": "https://github.com/BiswasAnanya/saucedemo-playwright-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  }
+}
