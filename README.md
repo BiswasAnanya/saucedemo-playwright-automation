@@ -48,4 +48,4 @@ Each automated test maps to a smoke case in the manual suite. Full mapping in [`
 
 ## Related Repository
 
-- [`saucedemo-manual-testing`](https://github.com/BiswasAnanya/saucedemo-manual-testing) — full manual test plan, 8 feature suites, bug reports, and requirements traceability matrix.
+- [`saucedemo-manual-testing`](https://github.com/BiswasAnanya/saucedemo-manual-testing), full manual test plan, 8 feature suites, bug reports, and requirements traceability matrix.
